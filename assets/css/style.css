@@ -1,0 +1,15 @@
+.navbar-light .navbar-brand {
+    color: white;
+    position: relative;
+    left: 50%;
+    transform: translatex(-50%);
+    font-family: 'Major Mono Display', monospace;
+    font-size: 200%;
+}
+
+.button {
+    background-color: black;
+}
+.btn {
+    background-color: black;
+}
